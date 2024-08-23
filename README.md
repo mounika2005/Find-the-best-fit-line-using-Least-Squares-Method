@@ -37,7 +37,9 @@ Developed by:LEVAKU LAKSHMI MOUNIKA
 RegisterNumber:212223100026
 */
 
+
 ```
+
 import numpy as np
 import matplotlib.pyplot as plt
 # Preprocessing Input data
