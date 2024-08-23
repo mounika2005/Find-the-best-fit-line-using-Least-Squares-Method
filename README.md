@@ -19,6 +19,7 @@ Step 6: Use the slope m and the y -intercept to form the equation of the line.
 Step 7: Obtain the straight line equation Y=mX+b and plot the scatterplot.
 Step 8: end 
 ```
+
 ## Program:
 ```
 /*
@@ -57,6 +58,7 @@ plt.show()
 ```
 
 ## Output:
+
 ## Slope and y-intercept
 ![Screenshot 2024-08-23 105839](https://github.com/user-attachments/assets/29d0893e-efcb-4ca3-859f-39090d2dca8a)
 
