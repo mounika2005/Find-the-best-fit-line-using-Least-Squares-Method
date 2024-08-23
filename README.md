@@ -8,6 +8,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ## Algorithm
 
 Step 1: start
+
 Step 2: Get the independent variable X and dependent variable Y.
 
 Step 3: Calculate the mean of the X -values and the mean of the Y -values.
