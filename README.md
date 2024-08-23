@@ -31,12 +31,9 @@ Step 8: end
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-
 Developed by:LEVAKU LAKSHMI MOUNIKA
-
 RegisterNumber:212223100026
 */
-
 import numpy as np
 import matplotlib.pyplot as plt
 # Preprocessing Input data
